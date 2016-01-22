@@ -1,1 +1,1 @@
-This is some random stuff tried out for Hacker Rank and Euler projects
+This is some random python stuff tried out for Hacker Rank and Euler projects.
